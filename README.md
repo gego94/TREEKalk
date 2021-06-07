@@ -18,5 +18,7 @@ java:
 * javac Use.java
 * java Use
 
+Instruction to use it in italian in file relazione.pdf .
+
 Based on Qt creator 4.4.1 with Qt 5.9.2
 GCC 5.3.1
